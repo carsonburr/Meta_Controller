@@ -1,5 +1,7 @@
 {
   "expo": {
+    "name": "Meta Controller",
+    "slug": "meta-controller",
     "sdkVersion": "23.0.0"
   }
 }
